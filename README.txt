@@ -16,8 +16,9 @@ Failures:        0
 Skipped:         0
 
 === Runtime statistics (seconds) ===
-Mean = 0.3045
-Standard deviation = 0.5065
 Minimum = 0.0005
 Maximum = 5.8245
+Mean = 0.3045
+Standard deviation = 0.5065
+
 Total runtime = 121.78 s
