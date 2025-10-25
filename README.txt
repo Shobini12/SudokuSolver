@@ -9,9 +9,15 @@ d8888b. d88888b  .d8b.  d8888b. .88b  d88. d88888b
 SudokuSolver
 Implements backtracking search using the minimum remaining value heuristic. 
                                                   
-Number of boards I could solve from sudokus start.txt:
-Running time statistics: 
-- Min
-- Max
-- Mean
-- Standard deviation
+=== Sudoku Test Results ===
+Test case count: 400
+Successes:       400
+Failures:        0
+Skipped:         0
+
+=== Runtime statistics (seconds) ===
+Mean = 0.3045
+Standard deviation = 0.5065
+Minimum = 0.0005
+Maximum = 5.8245
+Total runtime = 121.78 s
